@@ -1,2 +1,5 @@
 info:
   profile: dev
+
+application:
+  name: ms-rainbow-config-server
